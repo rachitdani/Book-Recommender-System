@@ -3,6 +3,15 @@
 # About the project:
 
 This is a streamlit web application that can recommend various kinds of similar books based on an user interest the concept of Collaborative based filtering is used here.
+* [Click here to run it live on server](https://book-recommendersystem.streamlit.app/)
+
+# Project Demo:
+
+<img src="demo/1.png" alt="workflow" width="70%">
+
+<img src="demo/2.png" alt="workflow" width="70%">
+
+<img src="demo/3.png" alt="workflow" width="70%">
 
 # Dataset Link:
 
@@ -28,7 +37,7 @@ This is a streamlit web application that can recommend various kinds of similar 
 Clone the repository
 
 ```bash
-
+https://github.com/rachitdani/Book-Recommender-System.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
